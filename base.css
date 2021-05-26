@@ -1,0 +1,59 @@
+.formu {
+  width: 400px;
+  background: #45C41B;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  background: #2C7E4B;
+  box-shadow: 7px 13px 37px #45C41B;
+}
+
+.formu h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controls {
+  width: 100%;
+  background: #45C41B;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #3DDA4E;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+.formu p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.formu a {
+  color: white;
+  text-decoration: none;
+}
+
+.formu a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.formu .botons {
+  width: 100%;
+  background: #17AF13;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+.btn{
+color: #FFFDFD;
+}
